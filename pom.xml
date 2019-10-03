@@ -6,7 +6,11 @@
 
     <groupId>org.gear-scanner</groupId>
     <artifactId>aws-test</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Mainbaeva</module>
+    </modules>
 
     <dependencyManagement>
         <dependencies>
